@@ -1,4 +1,4 @@
-# 7-Eleven
+# 7-Eleven Mobile App Redesign
 
 ![Mobile App Animation](http://2017.nathanielplatts.com/wp-content/uploads/2020/01/7-Eleven-opener.gif)
 
