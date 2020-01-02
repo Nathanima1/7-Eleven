@@ -1,5 +1,9 @@
 # 7-Eleven
 
+![Mobile App Animation](http://2017.nathanielplatts.com/wp-content/uploads/2020/01/7-Eleven-opener.gif)
+
+
+[7-Eleven Prototype](https://xd.adobe.com/view/ccbb0f26-b32a-48f4-6349-7953a7754855-ba8a/?fullscreen)
 
 Here are a collection of some of my recent projects:
 
@@ -15,5 +19,6 @@ Offering: Rewards • Scan & Pay • Fuel • Delivery
 
 Process Steps: Gather Research Data • Create Strategy and Story • Storyboard/Wireframe • Illustration Styles/Visual Hooks • Whiteboards/Sketches • Rapid Prototype
 
-http://2017.nathanielplatts.com/wp-content/uploads/2020/01/7-Eleven-opener.gif
+
+
 
