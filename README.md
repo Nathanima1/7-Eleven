@@ -5,10 +5,6 @@
 
 [7-Eleven Prototype](https://xd.adobe.com/view/ccbb0f26-b32a-48f4-6349-7953a7754855-ba8a/?fullscreen)
 
-Here are a collection of some of my recent projects:
-
-7-Eleven Redesign
-
 Project Role: Lead UX Designer
 
 Objective: Create the new 7-Eleven app (4 apps-in-1). App worked like a dashboard in which 4 services could be toggled.
