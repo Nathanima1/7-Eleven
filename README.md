@@ -1,4 +1,4 @@
-# Template-Directory
+# 7-Eleven Mobile App Redesign
 
 
 Here are a collection of some of my recent projects:
@@ -17,7 +17,10 @@ Process Steps: Gather Research Data • Create Strategy and Story • Storyboard
 
 http://2017.nathanielplatts.com/wp-content/uploads/2020/01/7-Eleven-opener.gif
 
+<<<<<<< Project
 -------------
 
 See Prototype (this is a link)
+=======
+>>>>>>> master
 
