@@ -1,4 +1,4 @@
-# Template-Directory
+# 7-Eleven Mobile App Redesign
 
 
 Here are a collection of some of my recent projects:
