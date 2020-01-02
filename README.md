@@ -1,8 +1,7 @@
-# Vex-Robotics-Redesign
+# Template-Directory
 
-This project contains a running collection of files pertaining to the website redesign project.
 
-[Paragraph containing details]
+[ Introductory paragraph containing summary of project details]
 
 [animated gif of homepage]
 
