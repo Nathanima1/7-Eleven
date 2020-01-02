@@ -3,13 +3,18 @@
 
 Here are a collection of some of my recent projects:
 
-Vex Robotics Redesign
+7-Eleven Redesign
 
-The prototype is a first round deliverable to establish a starting point for discussion and growth. Note that the flow revolves around one user persona. In this case, a teacher is visiting the website to purchase a product for the classroom to teach robotics.
+Project Role: Lead UX Designer
 
+Objective: Create the new 7-Eleven app (4 apps-in-1). App worked like a dashboard in which 4 services could be toggled.
 
-[animated gif of homepage]
+Scope Proof of Concept • First major deliverable within design group
 
-[links to prototype]
+Offering: Rewards • Scan & Pay • Fuel • Delivery
 
-[link to video presentation]
+Process Steps: Gather Research Data • Create Strategy and Story • Storyboard/Wireframe • Illustration Styles/Visual Hooks • Whiteboards/Sketches • Rapid Prototype
+
+http://2017.nathanielplatts.com/wp-content/uploads/2020/01/7-Eleven-opener.gif
+
+See Prototype
