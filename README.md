@@ -17,10 +17,4 @@ Process Steps: Gather Research Data • Create Strategy and Story • Storyboard
 
 http://2017.nathanielplatts.com/wp-content/uploads/2020/01/7-Eleven-opener.gif
 
-<<<<<<< Project
--------------
-
-See Prototype (this is a link)
-=======
->>>>>>> master
-
+http://2017.nathanielplatts.com/wp-content/uploads/2017/05/GIF-Promo-SoManyGames.gif
