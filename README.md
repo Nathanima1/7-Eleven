@@ -1,6 +1,6 @@
 # 7-Eleven Mobile App Redesign
 
-![Mobile App Animation](http://2017.nathanielplatts.com/wp-content/uploads/2020/01/7-Eleven-opener2.gif)
+![Mobile App Animation](http://2017.nathanielplatts.com/wp-content/uploads/2020/01/7-Eleven-opener.gif)
 
 
 [7-Eleven Prototype (click here to see animated prototype)](https://xd.adobe.com/view/ccbb0f26-b32a-48f4-6349-7953a7754855-ba8a/?fullscreen)
